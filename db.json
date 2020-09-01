@@ -1,0 +1,19 @@
+{
+  "articles": [{
+    "title": "Poules",
+    "content": "Voici des poules",
+    "url": "https://france3-regions.francetvinfo.fr/image/KoYzWKNHq5xKZRrDD5GYDF1TORk/930x620/regions/2020/06/09/5edf82536fe10_hens-3420126_1280-4276368.jpg"
+  }, {
+    "title": "Chèvre",
+    "content": "Voici une chèvre",
+    "url": "https://jardinage.lemonde.fr/images/dossiers/2018-01/chevre-1-074448.jpg"
+  }, {
+    "title": "Vaches",
+    "content": "Voici des vaches",
+    "url": "https://www.reussir.fr/lait/sites/lait/files/styles/normal_size/public/_RLA338_DOSS_TARIES_OUV.jpg?itok=17qvqEJ3"
+  }, {
+    "title": "Cochon",
+    "content": "Voici un cochon",
+    "url": "https://espritfermier.com/wp-content/uploads/2019/02/cochon2-956x658.jpg"
+  }]
+}
